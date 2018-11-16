@@ -1,12 +1,12 @@
-# ubiquity-slideshow-ubuntu
-
+# ubiquity-slideshow-umi 
+based on ubiquity-slideshow-ubuntu
 <http://launchpad.net/ubiquity-slideshow-ubuntu>
 
 -----
 
 This project is about slideshows which appear while installing Ubuntu or
 its *buntu friends. The one source package provides a number of Debian
-packages for Ubuntu, including ubiquity-slideshow-ubuntu,
+packages for Ubuntu, UMI, including ubiquity-slideshow-ubuntu,
 ubiquity-slideshow-xubuntu and ubiquity-slideshow-kubuntu.
 
 This is associated with the ubiquity-slideshow group on Launchpad at
