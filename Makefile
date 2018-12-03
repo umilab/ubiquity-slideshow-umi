@@ -11,7 +11,8 @@ SLIDESHOWS = \
 	ubuntu-mate \
 	oem-config-ubuntu \
 	oem-config-ubuntu-mate \
-	oem-config-ubuntu-budgie
+	oem-config-ubuntu-budgie\
+	umi
 
 SOURCE ?= .
 SOURCESLIDES ?= $(SOURCE)/slideshows
